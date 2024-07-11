@@ -1,0 +1,11 @@
+#### GET al home
+GET http://localhost:3008
+
+#### GET a los dispositivos
+GET http://localhost:3008/electronicos
+
+#### GET para obtenet dispositivo por id  
+GET http://localhost:3008/electronicos/668f2082a05a2b84b61b9c79
+
+#### GET para obtenet dispositivo por nombre
+GET http://localhost:3008/electronicos/nombre/Bafles Bluetooth
